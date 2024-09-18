@@ -1,0 +1,16 @@
+***5 Typer***
+5.1
+    Tjek HelloWorld
+5.2
+    Float eller double da man skal bruge komma-tal
+5.3
+    String hvis det skal være bogstaver eller int hvis det bare skal være tal
+5.4
+    1. sbyte, short, int, long
+    2. int
+    3. Tjek 5.4.3
+    4. Programmet Chrasher
+5.5
+    1. 32 og 64 bit
+    2. Tjek 5.5.3
+    3. 

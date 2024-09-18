@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\5.4.3\\5.4.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\5.4.3\\5.4.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\5.4.3\\5.4.3.csproj",
+        "projectName": "5.4.3",
+        "projectPath": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\5.4.3\\5.4.3.csproj",
         "packagesPath": "C:\\Users\\Søren Raun Bomberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\5.4.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Søren Raun Bomberg\\AppData\\Roaming\\NuGet\\NuGet.Config"

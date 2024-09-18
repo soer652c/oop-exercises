@@ -1,0 +1,15 @@
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/bin/Debug/net8.0/5.4.3
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/bin/Debug/net8.0/5.4.3.deps.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/bin/Debug/net8.0/5.4.3.runtimeconfig.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/bin/Debug/net8.0/5.4.3.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/bin/Debug/net8.0/5.4.3.pdb
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.AssemblyInfoInputs.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.AssemblyInfo.cs
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.sourcelink.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/refint/5.4.3.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.pdb
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/5.4.3.genruntimeconfig.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/5.4.3/5.4.3/obj/Debug/net8.0/ref/5.4.3.dll
