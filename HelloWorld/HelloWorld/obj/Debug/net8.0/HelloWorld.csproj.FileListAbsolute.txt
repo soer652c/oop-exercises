@@ -1,0 +1,15 @@
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/HelloWorld/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
