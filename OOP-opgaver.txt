@@ -21,4 +21,8 @@
 6.3
     Expressions evaluerers til en værdi og statements er instruktioner. 
 ***7 Variable***
-7.1
+7.5
+    Værdier er konstante og variabler er "temporary"
+7.8
+    Virker ikke
+***8 Booleans***
