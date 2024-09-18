@@ -13,4 +13,12 @@
 5.5
     1. 32 og 64 bit
     2. Tjek 5.5.3
-    3. 
+***6 Expressions***
+6.1
+    Et expression er værdier eller operatorer der kan forenkles til en enkelt værdi
+6.2
+    Det er det 
+6.3
+    Expressions evaluerers til en værdi og statements er instruktioner. 
+***7 Variable***
+7.1
