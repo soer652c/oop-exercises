@@ -1,0 +1,15 @@
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/bin/Debug/net8.0/Opgave 15.1
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/bin/Debug/net8.0/Opgave 15.1.deps.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/bin/Debug/net8.0/Opgave 15.1.runtimeconfig.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/bin/Debug/net8.0/Opgave 15.1.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/bin/Debug/net8.0/Opgave 15.1.pdb
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.AssemblyInfoInputs.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.AssemblyInfo.cs
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.sourcelink.json
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/refint/Opgave 15.1.dll
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.pdb
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/Opgave 15.1.genruntimeconfig.cache
+/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/Debug/net8.0/ref/Opgave 15.1.dll
