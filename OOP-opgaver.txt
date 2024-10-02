@@ -43,3 +43,6 @@
     4. Det korrekte sted at handle det ville være i GetAccountNumber inten så den bliver handlet inden alt andet
 15.3
     Tjek 15.3
+***Opgave 18 Objekter***
+18.1
+    

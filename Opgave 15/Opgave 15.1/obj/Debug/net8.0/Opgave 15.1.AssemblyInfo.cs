@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opgave 15.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95634db8f60048b51f6b1b590130a166111dee52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49bce47756ff000c430af73e110d0ec3ea0b02ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opgave 15.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opgave 15.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
