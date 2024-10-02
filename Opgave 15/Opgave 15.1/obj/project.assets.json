@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/soern/.nuget/packages/": {}
+    "C:\\Users\\Søren Raun Bomberg\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/Opgave 15.1.csproj",
+      "projectUniqueName": "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\Opgave 15\\Opgave 15.1\\Opgave 15.1.csproj",
       "projectName": "Opgave 15.1",
-      "projectPath": "/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/Opgave 15.1.csproj",
-      "packagesPath": "/home/soern/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Søren Raun Bomberg/OneDrive - Syddansk Universitet/Objekt Orienteret Programmering/oop-exercises/Opgave 15/Opgave 15.1/obj/",
+      "projectPath": "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\Opgave 15\\Opgave 15.1\\Opgave 15.1.csproj",
+      "packagesPath": "C:\\Users\\Søren Raun Bomberg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\Opgave 15\\Opgave 15.1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/soern/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Søren Raun Bomberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

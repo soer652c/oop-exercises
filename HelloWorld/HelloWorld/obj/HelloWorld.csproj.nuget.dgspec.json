@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Søren Raun Bomberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Søren Raun Bomberg\\OneDrive - Syddansk Universitet\\Objekt Orienteret Programmering\\oop-exercises\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Søren Raun Bomberg\\RiderProjects\\oop-exercises\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Søren Raun Bomberg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Søren Raun Bomberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
